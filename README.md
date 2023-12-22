@@ -1,6 +1,7 @@
 # Solitaire game
 
-Welcome to a classic game of Solitaire built using Java Swing! 
+Welcome to a classic game of Solitaire built using Java Swing!
+I developed it in 2015 at the university as an example of using MVC.
 
 ![](src/main/resources/screenshot.png)
 
